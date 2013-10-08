@@ -19,7 +19,7 @@ find	VB
 --	:
 witness	NN
 the	DT
-fight	NN
+fight	VB
 -	HYPH
 for	IN
 -	HYPH
@@ -62,7 +62,7 @@ survey	NN
 cited	VBD
 in	IN
 the	DT
-above	IN
+above	RB
 -	HYPH
 linked	VBN
 article	NN
@@ -254,7 +254,7 @@ a	DT
 mathematical	JJ
 '	POS
 proof	NN
-'	POS
+'	''
 that	IN
 the	DT
 company	NN
@@ -1515,7 +1515,7 @@ offered	VBN
 to	IN
 a	DT
 post-Chavez	JJ
-Allawi	NNP
+Allawi	NN
 -	HYPH
 like	JJ
 puppet	NN
@@ -1647,7 +1647,7 @@ smuggling	NN
 dating	VBG
 from	IN
 the	DT
-1980s	NNS
+1980s	CD
 -	HYPH
 is	VBZ
 alleged	VBN
@@ -2095,7 +2095,7 @@ evidence	NN
 against	IN
 him	PRP
 ,	,
-'	POS
+'	''
 concluding	VBG
 `	``
 honesty	NN
@@ -2104,7 +2104,7 @@ hard	JJ
 to	IN
 government	NN
 .	.
-'	POS
+'	''
 
 http://www.bigeye.com/111003.htm	NNP
 
@@ -2872,7 +2872,7 @@ Bosnia	NNP
 But	CC
 the	DT
 four	CD
-planeloads	NNS
+planeloads	NN
 of	IN
 arms	NNS
 have	VBP
@@ -3387,7 +3387,7 @@ Rev.	NNP
 Gerald	NNP
 Robinson	NNP
 appeared	VBD
-stony	RB
+stony	NN
 -	HYPH
 faced	VBN
 as	IN
@@ -3566,10 +3566,10 @@ Survivors	NNP
 Network	NNP
 for	IN
 Those	DT
-Abused	JJ
+Abused	NNP
 by	IN
-Priests	NNS
-[	IN
+Priests	NNP
+[	NNP
 SNAP	NNP
 ]	NNP
 ,	,
@@ -3582,9 +3582,9 @@ case	NN
 ,	,
 and	CC
 told	VBD
-her	PRP$
+her	PRP
 ,	,
-'	POS
+'	''
 I	PRP
 hope	VBP
 you	PRP
@@ -3592,7 +3592,7 @@ rot	NN
 in	IN
 hell	NN
 !	.
-'	POS
+'	''
 "	``
 
 From	IN
@@ -4169,7 +4169,7 @@ Christian	NNP
 Identity	NNP
 and	CC
 other	JJ
-hate	VBP
+hate	VB
 -	HYPH
 related	VBN
 philosophies	NNS
@@ -5276,7 +5276,7 @@ stories	NNS
 :	:
 a	DT
 journey	NN
-to	IN
+to	TO
 self	NN
 -	HYPH
 empowerment	NN
@@ -5598,7 +5598,7 @@ into	IN
 it	PRP
 ....	NNP
 
-http://en.wikipedia.org/wiki/Aerocom	NNP
+http://en.wikipedia.org/wiki/Aerocom	NN
 
 So	RB
 ...	:
@@ -5750,7 +5750,7 @@ of	IN
 truth	NN
 ,	,
 ala	JJ
-satanism	NNS
+satanism	NN
 .	.
 
 I	PRP
@@ -6318,7 +6318,7 @@ black	JJ
 metal	NN
 ,	,
 music	NN
-obsessed	VBD
+obsessed	VBN
 with	IN
 images	NNS
 of	IN
@@ -6351,7 +6351,7 @@ that	DT
 heavy	JJ
 metal	NN
 and	CC
-satanism	NNS
+satanism	NN
 are	VBP
 closely	RB
 linked	VBN
@@ -6418,7 +6418,7 @@ that	DT
 heavy	JJ
 metal	NN
 and	CC
-satanism	NNS
+satanism	NN
 are	VBP
 closely	RB
 linked	VBN
@@ -6724,7 +6724,7 @@ black	JJ
 metal	NN
 ,	,
 music	NN
-obsessed	VBD
+obsessed	VBN
 with	IN
 images	NNS
 of	IN
@@ -6768,7 +6768,7 @@ were	VBD
 labeled	VBN
 '	POS
 degenerate	VB
-'	POS
+'	''
 by	IN
 the	DT
 National	NNP
@@ -6785,7 +6785,7 @@ of	IN
 '	POS
 degenerate	VB
 art	NN
-'	POS
+'	''
 in	IN
 1937	CD
 ,	,
@@ -6975,7 +6975,7 @@ redirect	VB
 '	POS
 energy	NN
 ?	.
-'	POS
+'	''
 
 Does	VBZ
 this	DT
@@ -7148,7 +7148,7 @@ a	DT
 '	POS
 fall	NN
 .	.
-'	POS
+'	''
 
 He	PRP
 blended	JJ
@@ -7572,7 +7572,7 @@ of	IN
 scandals	NNS
 :	:
 
-http://www.dailykos.com/story/2006/5/12/232746/857	CD
+http://www.dailykos.com/story/2006/5/12/232746/857	NNP
 
 =	SYM
 Executive	NNP
@@ -7617,7 +7617,7 @@ thing	NN
 like	IN
 that	WDT
 ....	NNP
-hey	RB
+hey	NNP
 wait	VB
 a	DT
 minute	NN
@@ -7762,7 +7762,7 @@ Western	NNP
 Mystery	NNP
 )	)
 Tradition	NN
-'	POS
+'	''
 and	CC
 perhaps	RB
 '	POS
@@ -8093,7 +8093,7 @@ to	TO
 remember	VB
 something	NN
 about	RB
-'	POS
+'	''
 by	IN
 their	PRP$
 works	NNS
@@ -8297,7 +8297,7 @@ Christians	NNS
 (	(
 or	CC
 '	POS
-Smartwolves	NNS
+Smartwolves	NNP
 '	POS
 )	)
 do	VBP
@@ -8669,7 +8669,7 @@ Charge	NNP
 to	TO
 Keep	VB
 .	.
-'	POS
+'	''
 
 It	PRP
 's	POS
@@ -8847,13 +8847,13 @@ the	DT
 hymn	NN
 called	VBN
 ,	,
-'	POS
-A	NNP
+'	''
+A	DT
 Charge	NNP
 to	TO
 Keep	VB
 .	.
-'	POS
+'	''
 
 I	PRP
 have	VBP
@@ -9110,7 +9110,7 @@ suppose	VBP
 ,	,
 of	IN
 our	PRP$
-fast	JJ
+fast	RB
 -	HYPH
 paced	VBN
 ,	,
@@ -10091,7 +10091,7 @@ unlikely	JJ
 ,	,
 as	RB
 with	IN
-most	RBS
+most	JJS
 al	JJ
 -	HYPH
 Qaeda	NNP
@@ -10587,7 +10587,7 @@ solved	VBN
 to	TO
 avoid	VB
 giving	VBG
-al	NNP
+al	JJ
 -	HYPH
 Qaeda	NNP
 an	DT
@@ -10979,7 +10979,7 @@ quietly	RB
 .	.
 
 See	VB
-http://www.gulf-news.com/Articles/news.asp?ArticleID=97508	JJ
+http://www.gulf-news.com/Articles/news.asp?ArticleID=97508	NN
 
 In	IN
 the	DT
@@ -11587,9 +11587,9 @@ and	CC
 Feith	NNP
 staffed	VBN
 the	DT
-CPA	NN
+CPA	NNP
 with	IN
-Neoconservatives	NNS
+Neoconservatives	NNP
 ,	,
 most	JJS
 of	IN
@@ -11653,7 +11653,7 @@ mess	NN
 )	)
 
 The	DT
-Neocons	NNS
+Neocons	NNP
 in	IN
 the	DT
 CPA	NNP
@@ -12117,7 +12117,7 @@ by	IN
 the	DT
 phrase	NN
 .	.
-'	POS
+'	''
 
 And	CC
 on	IN
@@ -12618,7 +12618,7 @@ late	JJ
 he	PRP
 reportedly	RB
 made	VBD
-behind	RP
+behind	IN
 -	HYPH
 the	DT
 -	HYPH
@@ -14481,7 +14481,7 @@ threat	NN
 insisting	VBG
 that	IN
 the	DT
-preeminent	JJ
+preeminent	NN
 threat	NN
 of	IN
 terrorism	NN
@@ -14802,9 +14802,9 @@ and	CC
 focused	VBN
 of	IN
 the	DT
-al	NNP
+al	NN
 -	HYPH
-Qaeda	NNP
+Qaeda	VBN
 experts	NNS
 ,	,
 from	IN
@@ -18776,9 +18776,9 @@ best	JJS
 recruiting	VBG
 posters	NNS
 for	IN
-al	NNP
+al	JJ
 -	HYPH
-Qaida	NNP
+Qaida	NN
 with	IN
 young	JJ
 Muslim	NNP
@@ -21227,7 +21227,7 @@ most	RBS
 popular	JJ
 non-Microsoft	JJ
 browser	NN
-out	RP
+out	IN
 there	EX
 -	HYPH
 by	IN
