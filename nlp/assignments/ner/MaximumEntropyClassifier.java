@@ -230,7 +230,7 @@ public class MaximumEntropyClassifier<I, F, L> implements
 						int featIndex = datum.getFeatureIndex(num);
 						double featValue = datum.getFeatureCount(num);
 						
-						//this is a confusing stage!
+						
 						int linearFeatIndex = indexLinearizer.getLinearIndex(featIndex, labelIdx) ;
 						
 						internalSum += x[linearFeatIndex] * featValue ;
@@ -269,7 +269,7 @@ public class MaximumEntropyClassifier<I, F, L> implements
 					for ( int labelIdx = 0 ; labelIdx < encoding.getNumLabels() ; labelIdx++ )
 					{
 						
-						//this is a confusing stage!
+						
 						int linearFeatIndex = indexLinearizer.getLinearIndex(featIndex, labelIdx) ;
 						derivatives[linearFeatIndex] -= (weightFeatSumEachClass[labelIdx]) * featValue;
 					}
